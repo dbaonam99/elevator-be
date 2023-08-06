@@ -1,0 +1,30 @@
+{
+  "elevators": [
+    {
+      "id": 1,
+      "doorState": "close",
+      "currentFloor": 5,
+      "floorAmount": 10,
+      "direction": "idle",
+      "moving": false,
+      "requestedFloor": null,
+      "requestedDirection": null
+    },
+    {
+      "id": 2,
+      "doorState": "close",
+      "currentFloor": 1,
+      "floorAmount": 10,
+      "direction": "idle",
+      "moving": false
+    },
+    {
+      "id": 3,
+      "doorState": "close",
+      "currentFloor": 1,
+      "floorAmount": 10,
+      "direction": "idle",
+      "moving": false
+    }
+  ]
+}
